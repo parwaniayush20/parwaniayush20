@@ -1,18 +1,48 @@
-# 💫 About Me:
-🔭 I’m currently working on: Revamping the DNA 3.0 SaaS Platform at HashedIn by Deloitte, architecting a centralized React + TypeScript component library and building scalable dashboard infrastructures.<br><br>👯 I’m looking to collaborate on: Open-source design systems, GraphQL-based toolkits, and high-performance web architectures that push the boundaries of modern frontend frameworks.<br><br>🤝 I’m looking for help with: Advanced CI/CD automation strategies and fine-tuning Azure AD SSO integrations for complex enterprise environments.<br><br>🌱 I’m currently learning: Modern state management patterns using Zustand and Tanstack, while deepening my expertise in AWS S3 asset workflows and serverless architectures.<br><br>💬 Ask me about: React migrations (v15 to v18), optimizing code review cycles with automated hooks, and mentoring junior engineers through Tech Huddles.<br><br>⚡ Fun fact: I'm a competitive coder who ranked in the top 7% on Codechef and once won the Singles Badminton Championship at HashedIn.
+<p align="center">
+  <h1 align="center">Ayush Parwani</h1>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushparwani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushparwani88@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parwaniayush20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parwaniayush20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parwaniayush20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <b>Frontend Expert:</b> Migrated 2M+ user platform from React 15 to 18 • <b>System Architect:</b> Built React + TypeScript library used by 370+ engineers • <b>Performance:</b> Reduced code review cycles by 15% • <b>Quality:</b> Maintained 85–90%+ unit test coverage • <b>Full-Stack:</b> Engineered GraphQL-S3 workflows for 500+ daily uploads
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parwaniayush20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🚀 **About Me**
+* 🔭 **I’m currently working on** the Sensing and Shaping dashboard, focusing on complex UI/UX infrastructure and AWS S3 integrations.
+* 👯 **I’m looking to collaborate on** large-scale design systems and performance optimization for React-based SaaS platforms.
+* 🤝 **I’m looking for help with** advanced Azure AD SSO with RBAC patterns and CI/CD automation using SonarQube and Mend.
+* 🌱 **I’m currently learning** modern state management with Zustand and Tanstack, and serverless processing with AWS Lambda.
+* 💬 **Ask me about** React migrations, automated pre-commit hooks, and mentoring junior engineers via "Tech Huddles".
+* ⚡ **Fun fact:** I am the HashedIn Men's Singles Badminton Champion (Sept '25) and ranked in the top 7% globally on Codechef.
+
+---
+
+### 🛠 **Technical Stack**
+
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-blue?style=flat) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### **Backend & Cloud**
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+
+#### **Databases & Testing**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
+
+#### **Tools & Automation**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+### 🔗 **Connect with me**
+<p>
+  <a href="mailto:ayushparwani88@gmail.com">Email</a> | <a href="https://linkedin.com/in/parwaniayush20">LinkedIn</a> | <a href="https://github.com/parwaniayush20">GitHub</a>
+</p>
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parwaniayush20&theme=dark&hide_border=true" alt="Ayush's Streak" height="170" />
+</p>
